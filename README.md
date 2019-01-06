@@ -7,6 +7,7 @@ Deep Learning CNN model which recognizes images. This projects provides generic 
 _**Image Recognition CNN Architecture**_
 
 The architecture consist of following steps:
+
 _Step 1_ - Convolution (with 32 feature detector & rectifier 0 relu. Since images are colored input_shape will be used 3D array of 64x64X3 (smaller format for local machine run (IN GPU - 256x256X3 can be used which will give better results)
 
 _Step 2_ - Pooling - reducing the size of feature map. Here Max Pooling will be used. To achieve better accuracy - add a second convolution layer
