@@ -40,7 +40,7 @@ _Step 4_ - Full connection - PASS Step 3 output to ANN
 
 **NOTE:** Image augmentation for better results i.e. flip, invert etc etc images provided, hence helps in creating different observations of the images
 
-# How to use CNN Framework? - putting thins into prospective
+# How to use CNN Framework? - putting things into prospective
 
 1. Create a director imagedb
 2. With in imagedb create two subfolders:
