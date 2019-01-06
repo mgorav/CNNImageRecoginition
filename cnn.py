@@ -18,7 +18,7 @@ sequencialClassifier.add(Convolution2D(32, 3, 3, input_shape = (64, 64, 3), acti
 # Step 2 - Pooling - reducing the size of feature map. Here Max Pooling will be used
 sequencialClassifier.add(MaxPooling2D(pool_size = (2, 2)))
 
-# Adding a second convolutional layer
+# Adding a second convolution layer
 sequencialClassifier.add(Convolution2D(32, 3, 3, activation ='relu'))
 sequencialClassifier.add(MaxPooling2D(pool_size = (2, 2)))
 

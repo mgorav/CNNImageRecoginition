@@ -17,7 +17,7 @@ Visual learning is one of the major parts of human learning. Convolutional Neura
 
 6. **Retail store experience** like Amazon GO
 
-8. **Gesture recognition**
+8. **Screenshot 2019-01-06 at 19.41.20**
 
 9. etc ..
 
@@ -44,7 +44,10 @@ _Step 4_ - Full connection - PASS Step 3 output to ANN
 
 **NOTE:** Image augmentation for better results i.e. flip, invert etc etc images provided, hence helps in creating different observations of the images
 
-# How to use CNN Framework? - putting things into prospective
+The above architecture is show pictorially below:
+![alt text](./CNNImageRecognition.png)
+
+ How to use CNN Framework? - putting things into prospective
 
 1. Create a director imagedb
 2. With in imagedb create two subfolders:
