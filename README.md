@@ -32,6 +32,9 @@ Try it out!!!
 
 # Image Recognition CNN Architecture
 
+CNN network is a four step process:
+![alt text](./CNNSteps.png)
+
 The architecture consist of following steps:
 
 **_Step 1_** - Convolution (with 32 feature detector & rectifier 0 relu. Since images are colored input_shape will be used 3D array of 64x64X3 (smaller format for local machine run (IN GPU - 256x256X3 can be used which will give better results)
