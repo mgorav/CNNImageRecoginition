@@ -5,19 +5,19 @@ Deep Learning CNN model which recognizes images. This projects provides generic 
 
 Visual learning is one of the major parts of human learning. Convolutional Neural Network (CNN) has made computer vision and hence computer-based visual learning possible. CNN based computer vision learning has many business use cases:
 
-1. Facial recognition - get rid of old style access card entry to the office and may more business use cases.
+1. **Facial recognition** - get rid of old style access card entry to the office and may more business use cases.
 
-2. Self-driving cars - detect various roads sign and assist self-driving algorithm
+2. **Self-driving cars** - detect various roads sign and assist self-driving algorithm
 
-3. Car number plate detection - paperless parking ticket experience
+3. **Car number plate detection** - paperless parking ticket experience
 
-4. HR bots taking interviews - job seekers behavior analysis and hence bots recommendations for employee fit for a company
+4. **HR bots taking interviews** - job seekers interview behavior analysis and hence bots recommendations for employee fit for a company
 
-5. Bank check recognition
+5. **Bank check recognition**
 
-6. Retail store experience like Amazon GO
+6. **Retail store experience** like Amazon GO
 
-8. Gesture recognition
+8. **Gesture recognition**
 
 9. etc ..
 
