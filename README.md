@@ -32,7 +32,7 @@ Try it out!!!
 
 # Image Recognition CNN Architecture
 
-CNN network is a four step process:
+CNN network creation is a four step process:
 ![alt text](./CNNSteps.png)
 
 The architecture consist of following steps:
