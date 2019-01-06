@@ -23,7 +23,11 @@ Visual learning is one of the major parts of human learning. Convolutional Neura
 
 Check out my GitHub project which provides Keras based CNN model for facial recognition. It's a generic approach for image recognition, where the dataset is decoupled from CNN model. Building such a model consist of the following steps:
 Convolution > Pooling > Flattening > Full connection (a neural network)
-Image augmentation is used for accuracy of 85%
+Image augmentation is used for accuracy of 85%. This is not bad at all!!
+
+The performance can be further improved by running this on GPU and using image_shape of 256 x 3 X 3 and adding more convolution layer
+
+Try it out!!!
 
 
 # Image Recognition CNN Architecture
