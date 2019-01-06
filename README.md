@@ -4,7 +4,8 @@ Deep Learning CNN for Image Recognition
 Deep Learning CNN model which recognizes images. This projects provides generic framework for building image recognition. The framework als uses image augmentation to achieve better results. This program when run locally will take lots of time. Further image size is intentionally chosen less in favour of fast run. Best results will be achieved when ran on GPU. Further accuracy of 85% on the test data was achieved.
 
 
-_**CNN Architecture**_
+_**Image Recognition CNN Architecture**_
+
 The architecture consist of following steps:
 _Step 1_ - Convolution (with 32 feature detector & rectifier 0 relu. Since images are colored input_shape will be used 3D array of 64x64X3 (smaller format for local machine run (IN GPU - 256x256X3 can be used which will give better results)
 
