@@ -4,7 +4,7 @@
 Deep Learning CNN model which recognizes images. This projects provides generic framework for building image recognition. The framework als uses image augmentation to achieve better results. This program when run locally will take lots of time. Further image size is intentionally chosen less in favour of fast run. Best results will be achieved when ran on GPU. Further accuracy of 85% on the test data was achieved.
 
 
-_**Image Recognition CNN Architecture**_
+# Image Recognition CNN Architecture
 
 The architecture consist of following steps:
 
@@ -18,7 +18,7 @@ _Step 4_ - Full connection - PASS Step 3 output to ANN
 
 **NOTE:** Image augmentation for better results i.e. flip, invert etc etc images provided, hence helps in creating different observations of the images
 
-_**How to use CNN Framework? - putting thins into prospective**_
+# How to use CNN Framework? - putting thins into prospective**
 
 1. Create a director imagedb
 2. With in imagedb create two subfolders:
