@@ -17,9 +17,7 @@ Visual learning is one of the major parts of human learning. Convolutional Neura
 
 6. **Retail store experience** like Amazon GO
 
-8. **Screenshot 2019-01-06 at 19.41.20**
-
-9. etc ..
+7. etc ..
 
 Check out my GitHub project which provides Keras based CNN model for facial recognition. It's a generic approach for image recognition, where the dataset is decoupled from CNN model. Building such a model consist of the following steps:
 Convolution > Pooling > Flattening > Full connection (a neural network)
