@@ -53,8 +53,12 @@ The above architecture is show pictorially below:
  How to use CNN Framework? - putting things into prospective
 
 1. Create a director imagedb
+
 2. With in imagedb create two subfolders:
+
   2.1) training_set
+  
   2.2) test_set
+  
 3. With the training_set and test_set create image classification holder like "Gaurav" etc and put your different images inside it.
 
